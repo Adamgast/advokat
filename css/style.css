@@ -2305,7 +2305,7 @@ body._lock {
 
   .tabs-spoller {
     display: block;
-    font-style: 700px;
+    font-style: 700;
   }
 
   .tabs-spoller__spollers {
